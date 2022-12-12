@@ -6,7 +6,7 @@ Intro to TouchDesigner and Controlling outputs with arduino via serial communica
 This example shows the necessary python scripts, DATs, and CHOPs to set up Serial Communication with an Arduino. This example uses the the free version of TouchDesigner 2022 and the Arduino Nano 33 IoT.
 
 Please come with you Arduino nano 33iot and kit. Please also have Touch Designer and Arduino installed on your machine
-* [Touch Designer](https://itp.nyu.edu/physcomp/)
+* [TouchDesigner](https://itp.nyu.edu/physcomp/)
 * [Arduino IDE](https://www.arduino.cc/en/software)
 
 ## Arduino Circuit:
