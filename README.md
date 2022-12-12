@@ -7,6 +7,7 @@ This example shows the necessary python scripts, DATs, and CHOPs to set up Seria
 
 Please come with you Arduino nano 33iot and kit. Please also have Touch Designer and Arduino installed on your machine
 * [Touch Designer](https://itp.nyu.edu/physcomp/)
+* [Arduino IDE](https://www.arduino.cc/en/software)
 
 ## Arduino Circuit:
 This examples can be adjusted for any number of analog or digital inputs or the Nano 33 IoT's built in IMU. 
