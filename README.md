@@ -60,4 +60,23 @@ If you are using the IMU, make sure you have installed the LSM6DS3 library and t
 
 ## Touch Designer
 You can download the sample .toe file from this repo and also follow along with the serial set up below
-![Arduino Boards Manager in the v 2.0 IDE](imgs/ "Arduino Boards Manager in the v 2.0 IDE")
+
+Create a serial DAT, it will be turned off, and look like this until you enable it.
+![Serial Dat Empty](imgs/serial1empty.png "Serial Dat Empty")
+
+Next go to the parameters and begin entering your info:
+![Serial Dat Parameters Empty](imgs/serialsettings1.png "Serial Dat Parameters Empty")
+
+My settings look like the image below:
+* Row Callback Format: ```One Per Line```
+* Port: ```COMx``` on Windows ```/dev/cu.usbmodemxxxx``` on Mac 
+![Serial Dat Parameters full](imgs/serialParamsFull.png "Serial Dat Parameters full")
+
+If all is set correctly, and arduino is printing information you should see some information in the Serial DAT
+![Serial Dat with info](imgs/serialDAT.png "Serial Dat with info")
+
+You may see multple lines of information.  You can go to the ```Received Data``` tab to change the output.  Change ```Maximum Lines``` to the amount of lines you want to show in your DAT.  1 line is enough for this tutorial.
+![Serial receive data tab](imgs/receivedDataSerial.png "Serial receive data tab")
+
+
+Next we will parse out the information together in class and this repo will be updated afterward with more info from what we did in the session!
