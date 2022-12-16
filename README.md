@@ -155,13 +155,13 @@ If everything is formatted correctly the output should look similar to the image
 
 Channels will be named based on the header from the ```convert``` DAT. Use a ```rename``` CHOP to change channel names.  In the ```From``` field you can use an asterisk ```*``` to select all channels in order.  Use the ```To``` field to define your desired channel names.  When renaming, separate each name with a space.
 
-![Serial Parsed in TD](imgs/rename.png "Serial Parsed in TD")
+![Rename CHOP](imgs/rename.png "Rename CHOP")
 
 ## Selecting and Exporting
 Use a ```select``` CHOP to split channels into individual CHOPs.  This will make each channel individually routable.
 
 Next connect to one of the premade examples. From here you should be able to see some changes and explore changing values to get different effects.
-
+![Select CHOP to Example](imgs/select.png "Select CHOP to Example")
 
 ## Resources
 * [ITP Physical Computing Site](https://itp.nyu.edu/physcomp/)
