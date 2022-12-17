@@ -163,10 +163,15 @@ Use a ```select``` CHOP to split channels into individual CHOPs.  This will make
 Next connect to one of the premade examples. From here you should be able to see some changes and explore changing values to get different effects.
 ![Select CHOP to Example](imgs/select.png "Select CHOP to Example")
 
+Try connecting sensors to some of the other examples in the provided .toe file.  The file examples are a hybrid of youtube tutorials (each linked in the file and below) and custom experiments.
+
+
 ## Resources
 * [ITP Physical Computing Site](https://itp.nyu.edu/physcomp/)
 * [ITP Physical Computing IMU Serial Lab](https://itp.nyu.edu/physcomp/labs/lab-serial-imu-output-to-p5-js/)
-* [IMA Designing Interfaces for Live Performance]()
+* [Elburz Sorkhabi (Interactive Immersive HQ) Particles and Metaballs](https://www.youtube.com/watch?v=FAYpBUBDonY)
+* [Crystal Jow Holiday Point Clouds (Interactive Immersive HQ) ](https://www.youtube.com/watch?v=o0Hli7C1RME)
+* [Cryystal Jow Generative Warhol Tutorial (Interactive Immersive HQ) ](https://www.youtube.com/watch?v=KmUUHRzG7UE)
 
 ## Further Resources
 * [Interactive & Immersive HQ Youtube](https://www.youtube.com/c/TheInteractiveImmersiveHQ)
