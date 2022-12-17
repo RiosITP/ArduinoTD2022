@@ -1,5 +1,6 @@
 # Connecting Arduino and TouchDesigner Workshop 2022
 
+## Contents
 * [Description](#description)
 * [Arduino Circuit](#arduino-circuit)
 * [Arduino Serial Setup with IMU](#arduino-serial-w-imu)
